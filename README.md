@@ -92,7 +92,7 @@ Diagramme utile dans l'analyse des besoins initiaux des utilisateurs (non offici
 6. Déployer 
 7. Maintenir le système
 
-Projet géré avec le principe d'itération : plusieurs allers-retorus sur les diagrammes avant d'avoir un dossier d'analyse complètement satisfaisant
+Projet géré avec le principe d'itération : plusieurs allers-retours sur les diagrammes avant d'avoir un dossier d'analyse complètement satisfaisant
 
 * La définition d'un logiciel divisée (en gros) en 2 parties : *
 - Étape de l'analyse (des besoins, du domaine, applicative)
