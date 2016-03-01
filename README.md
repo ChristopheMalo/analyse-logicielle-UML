@@ -27,8 +27,8 @@ Un projet informatique nécessite une phase d'analyse suivi d'une étape de conc
 - Analyse du domaine : Diagramme de Cas d'utilisation détaillé, Diagramme d'activité, Digramme de classes
 - Analyse applicative : Diagramme de séquence, Diagramme d'état-transition, Digramme de collaboration
 
-**Conception$**
-- Conception de la solution : Affinage de tous les diagrammes + Digrammes de composants et Diagramme de déploiement
+**Conception**
+- Conception de la solution : Affinage de tous les diagrammes + Diagramme de composants et Diagramme de déploiement
 
 ### Les différents types de diagrammes
 
@@ -38,20 +38,20 @@ Un projet informatique nécessite une phase d'analyse suivi d'une étape de conc
 
 Ces 2 aspects sont représentés par le schéma de 4 vues (appelé 4+1 vues), axées sur les besoins des utilisateurs (Cas d'utilisation).
 
-**Composition du 4+1 :**
+####Composition du 4+1 :
 
-Central : Besoins des utilisateurs (1) - Coeur de l'analyse, description du contexte, des acteurs ou utlisateur du projet logiciel, les fonctionnalités du logiciel, les interactions entre acteurs et fonctionnalités
+**Central :** Besoins des utilisateurs (1) - Coeur de l'analyse, description du contexte, des acteurs ou utlisateur du projet logiciel, les fonctionnalités du logiciel, les interactions entre acteurs et fonctionnalités
 
-Aspects fonctionnels :
+**Aspects fonctionnels :**
 - Vue logique (2) - identifie les éléments du domaine, les relations er interactions entre ces éléments, organise les éléments du domaine en catégorie
 - Vue des processus (3) - démontre la décomposition du système en processus et actions, les interactions entre les processus, la synchronisation et la communication des activités parallèles
 
-Architecture :
+**Architecture :**
 - Vue des composants (4) - met en évidence les parties qui compose le futur système (fichiers source, bibliothèques, base de données, exécutables etc.
 - Vue du deploiement (5) - décrit les ressources matérielles et la répartion des parties du logiciel sur ces éléments
 
 
-**Les diagrammes**
+####Les diagrammes
 
 Diagramme utile dans l'analyse des besoins initiaux des utilisateurs (non officiel donc pas dans les 13) : **le diagramme de contexte**
 
@@ -93,7 +93,7 @@ Diagramme utile dans l'analyse des besoins initiaux des utilisateurs (non offici
 
 Projet géré avec le principe d'itération : plusieurs allers-retorus sur les diagrammes avant d'avoir un dossier d'analyse complètement satisfaisant
 
-**La définition d'un logiciel divisée (en gros) en 2 parties : **
+* La définition d'un logiciel divisée (en gros) en 2 parties : *
 - Étape de l'analyse (des besoins, du domaine, applicative)
 - Conception de la solution
 
@@ -116,6 +116,7 @@ Projet géré avec le principe d'itération : plusieurs allers-retorus sur les d
   - Diagramme de composants (Indiquer comment le logiciel sera construit)
   - Diagramme de déploiement (montrer sur quel matériel chacun des composants devra être installé, indiquer les éventuels moyens de communication entre les parties)
 
+### Résumé
 Dans une démarche de modélisation d’un projet informatique avec UML, **les points clés** sont :
 - une démarche guidée par les besoins utilisateurs,
 - une démarche itérative et incrémentale,
