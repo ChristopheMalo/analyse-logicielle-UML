@@ -83,13 +83,14 @@ Diagramme utile dans l'analyse des besoins initiaux des utilisateurs (non offici
 **Rappel :** UML ne préconise aucune démarche
 
 **Étapes de développement d'un logiciel :**
-1.Définir les besoins et les exigences du client et des utilisateurs
-2.Analyser le système 
-3.Concevoir le système 
-4.Programmer le logiciel
-5.Tester le logiciel
-6.Déployer 
-7.Maintenir le système
+
+1. Définir les besoins et les exigences du client et des utilisateurs
+2. Analyser le système 
+3. Concevoir le système 
+4. Programmer le logiciel
+5. Tester le logiciel
+6. Déployer 
+7. Maintenir le système
 
 Projet géré avec le principe d'itération : plusieurs allers-retorus sur les diagrammes avant d'avoir un dossier d'analyse complètement satisfaisant
 
